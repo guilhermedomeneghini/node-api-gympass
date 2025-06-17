@@ -39,3 +39,13 @@ NPM INIT -Y
 
 
  9 - configurar o eslint > npm i eslint @rocketseat/eslint-config -D
+
+
+ 10 - instalar o prima > npm i prisma -d
+
+ 11 - inciar ee npx prisma init instalar restante da dependencia 
+
+ 12 - dps de criar model no schema dar um npx prisma generate
+
+ 13 - instalar o npm i @prisma/client
+
