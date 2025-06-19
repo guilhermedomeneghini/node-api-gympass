@@ -1,4 +1,4 @@
-# App > 257
+# App > 265
 
 GymPass style app.
 
@@ -23,8 +23,6 @@ GymPass style app.
 - [ ] O check-in só pode ser validado até 20 minutos após criado;
 - [ ] O check-in só pode ser validado por administradores;
 - [ ] A academia só pode ser cadastrada por administradores;
-- [ ] 
-- [ ] 
 
 ## RNF-s (Requisitos não-funcionais)
 

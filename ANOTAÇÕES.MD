@@ -49,3 +49,5 @@ NPM INIT -Y
 
  13 - instalar o npm i @prisma/client
 
+ para teste > npm i vitest vite-tsconfig-paths -D
+
